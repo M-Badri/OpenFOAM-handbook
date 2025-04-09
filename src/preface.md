@@ -1,6 +1,7 @@
-[![title](images/powered_by_adige.png)](https://www.adigecalculations.com/)
+[![title](images/powered_by_adige.png)](https://www.floating-gates.com/)
 
 # Preface
+
 -----------------------------------------------------------
 This handbook is intended to support a medium/advanced OpenFoam® user
 during the usage of the software. It provides commands, explanations,
@@ -17,7 +18,7 @@ resolve the setting of a problem in the shortest possible time.
 | -----------  | ------------------- |
 | Abc          | Normal text         |
 |``` Abc```    | Shell command       |
-|```<Abc>``` | User input required |
+|```<Abc>```   | User input required |
 
 
 ## Installation location

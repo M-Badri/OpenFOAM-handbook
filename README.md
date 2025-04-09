@@ -1,14 +1,14 @@
 <div align="center">
   <p align="center">
-    <a href="https://www.adigecalculations.com/">
-    <img src="src/images/powered_by_adige.png" alt="Adige OF book logo" >
+    <a href="https://floating-gates.com/">
+    <img src="src/images/powered_by_adige.png" alt="openfoam & floating-gates logo" >
   </p>
   <strong>This book describes the usual practices a medium/advanced OpenFoam® user takes during CFD smulations workflows. </strong>
 
   <h3>
-    <a href="https://openfoam-handbook.adigecalculations.com/">Read the Book</a>
+    <a href="https://openfoam-handbook.floating-gates.com/">Read</a>
     <span> | </span>
-    <a href="https://github.com/Adige-Calculations/OpenFOAM-handbook">Contributing</a>
+    <a href="https://github.com/floating-gates/OpenFOAM-handbook">Contribute</a>
     <span> | </span>
     <a href="https://www.adigecalculations.com/contact">Chat</a>
   </h3>
